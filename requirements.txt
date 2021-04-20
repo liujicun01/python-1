@@ -222,7 +222,7 @@ protobuf==3.6.1
 psutil==5.4.6
 ptyprocess==0.6.0
 public==1.0.3
-py==1.5.4
+py==1.10.0
 pyaes==1.6.1
 pyaml==17.12.1
 pyasn1==0.4.4
