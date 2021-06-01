@@ -349,7 +349,7 @@ twine==1.11.0
 Twisted==18.7.0
 typing==3.6.6
 ujson==1.35
-urllib3==1.22
+urllib3==1.26.5
 uuid==1.30
 uWSGI==2.0.17.1
 vcversioner==2.16.0.0
