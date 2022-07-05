@@ -348,7 +348,7 @@ traitlets==4.3.2
 twine==1.11.0
 Twisted==18.7.0
 typing==3.6.6
-ujson==1.35
+ujson==5.4.0
 urllib3==1.22
 uuid==1.30
 uWSGI==2.0.17.1
