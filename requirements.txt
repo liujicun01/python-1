@@ -186,7 +186,7 @@ osc-lib==1.11.1
 oslo.config==6.4.0
 oslo.i18n==3.21.0
 oslo.serialization==2.27.0
-oslo.utils==3.36.4
+oslo.utils==4.10.1
 packaging==17.1
 pandas==0.23.4
 pandocfilters==1.4.2
