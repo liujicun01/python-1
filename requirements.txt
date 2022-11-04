@@ -346,7 +346,7 @@ tox==3.2.1
 tqdm==4.24.0
 traitlets==4.3.2
 twine==1.11.0
-Twisted==18.7.0
+Twisted==22.10.0
 typing==3.6.6
 ujson==1.35
 urllib3==1.22
